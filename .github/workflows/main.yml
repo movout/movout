@@ -28,9 +28,7 @@ jobs:
           cd generator
           npm install
           npm run build
-          # Генерация SVG (создается внутри папки generator)
           node dist/bin/github-stats-terminal.js ${{ github.repository_owner }} atom
-          # Перемещаем файл в корень твоего репозитория
           mv github_stats.svg ../github_stats.svg
         env:
           GHT: ${{ secrets.GHT }}
