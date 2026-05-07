@@ -15,7 +15,6 @@ Currently: ZeroTrust Team Member
 
 C / C++ • Python • x86/x64 Assembly • Linux • GDB • Radare2
 
-### Writeups
+### Writeups & Tools
 https://github.com/movout/CTF-Writeups
-
-[###Writeups]([https://адрес-сайта.com](https://github.com/movout/CTF-Writeups))
+https://github.com/movout/tools
