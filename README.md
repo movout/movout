@@ -19,3 +19,7 @@ C / C++ • Python • x86/x64 Assembly • Linux • GDB • Radare2
 https://github.com/movout/CTF-Writeups
 
 https://github.com/movout/Tools
+
+### Currently
+
+Expanding my knowledge in web and network technologies
