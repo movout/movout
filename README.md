@@ -13,12 +13,9 @@ Security Researcher & Software Engineer
 C / C++ • Python • x86/x64 Assembly • Linux • GDB • Radare2
 
 ### Writeups & Tools
-- Writeups and notes
-
+- Writeups and notes\n
 https://github.com/movout/CTF-Writeups
-
-- Tools for automation
-
+- Tools for automation\n
 https://github.com/movout/Tools
 
 ### Currently
