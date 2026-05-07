@@ -1,24 +1,19 @@
-<div align="center">
-
-[![GitHub Stats Terminal](https://github.com/movout/movout/raw/main/github_stat.svg)](https://github.com/movout/movout)
-
-</div>
-
----
+### Hi, I'm movout
+Security Researcher & Software Engineer
 
 ### About me
+Focus on low-level and web technologies
 
-- **Specialization:** Reverse Engineering & Pwn
+Interest in how technologies work and how to use them
 
-- **Currently:** ZeroTrust Team Member
+Working and learning tools and new ones
 
+Currently: ZeroTrust Team Member
 ---
 
 ### Technical
 
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Reverse Engineering** | Radare2, GDB |
-| **Languages** | x64 Assembly, Python, C/C++ |
-| **Core Interests** | Malware Analysis |
+C / C++ • Python • x86/x64 Assembly • Linux • GDB • Radare2
+
+### Writeups & Tools
 
